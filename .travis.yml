@@ -1,6 +1,6 @@
 ---
 language: java
-script: ant main
+mvn: test
 jdk:
   - oraclejdk8
   - oraclejdk7
