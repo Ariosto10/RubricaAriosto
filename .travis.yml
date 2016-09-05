@@ -1,5 +1,5 @@
 ---
 language: java
 os: windows
-sudo: false
+sudo: required
 
